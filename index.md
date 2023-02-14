@@ -17,7 +17,7 @@
   11. [x] [Various addenda](https://thosgood.com/sga/sga-1/I.html#I.11)
 - [ ] [II. Smooth morphisms: generalities, differential properties](https://thosgood.com/sga/sga-1/II.html)
   1. [x] [Generalities](https://thosgood.com/sga/sga-1/II.html#II.1)
-  2. [ ] Some smoothness criteria for morphisms *(3)*
+  2. [ ] Some smoothness criteria for morphisms (test) *(3)*
   3. [ ] Invariance properties *(1)*
   4. [ ] Differential properties of smooth morphisms *(17)*
   5. [ ] The case of a base field *(6)*
@@ -114,7 +114,7 @@
 <br>
 
 
-## 2. Local cohomology of coherent sheaves and local and global Lefschetz theoremshttps://thosgood.com/sga/sga-2/index.ht {#sga-2}
+## 2. Local cohomology of coherent sheaves and local and global Lefschetz theorems {#sga-2}
 
 - [ ] Introduction
 - [ ] I. Global and local cohomological invariants with respect to a closed subspace
@@ -485,7 +485,7 @@
 
 ## [6. Intersection theory and the Riemann--Roch theorem](https://thosgood.com/sga/sga-6/index.html) {#sga-6}
 
-- [ ] [Outline of a programme for an intersection theory](https://thosgood.com/sga/sga-6/zero.html)
+- [ ] [0. Outline of a programme for an intersection theory](https://thosgood.com/sga/sga-6/zero.html) *(18)*
 - [ ] [0[RRR]. Classes of sheaves and the Riemann--Roch theorem](https://thosgood.com/sga/sga-6/zeroRRR.html)
   1. [ ] [$\lambda$-rings (formal preliminaries)](https://thosgood.com/sga/sga-6/zeroRRR.html#zeroRRR.I) *(17)*
   2. [ ] [Classes of coherent algebraic sheaves and Chern classes](https://thosgood.com/sga/sga-6/zeroRRR.html#zeroRRR.II) *(30)*
@@ -501,7 +501,7 @@
   8. [ ] Traces and cup-products *(5)*
 - [ ] II. Existence of global resolutions
 - [ ] III. Relative finiteness conditions
-- [ ] [IV. Grothendieck groups of ringed toposes](https://thosgood.com/sga/sga-6/IV.html)
+- [ ] [IV. Grothendieck groups of ringed toposes](https://thosgood.com/sga/sga-6/IV.html) *(@thosgood)*
   1. [ ] [Reminders and generalities on Grothendieck groups](https://thosgood.com/sga/sga-6/IV.html#IV.1) *(5)*
   2. [ ] The functors $K_\bullet$ and $K^\bullet$ on a ringed topos *(12)*
   3. [ ] Supplement on the Grothendieck groups of schemes *(7)*
