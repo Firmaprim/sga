@@ -139,7 +139,7 @@
   1. [ ] Generalities *(3)*
   2. [ ] Application to quasi-coherent sheaves on preschemes *(2)*
 - [ ] VII. Nullity criteria. Coherence conditions for the sheaves $\underline{\operatorname{Ext}}(F,G)$
-  1. [ ] Study of $i<n$ *(5)*
+  1. [ ] Study of $i\< n$ *(5)*
   2. [ ] Study of $i>n$ *(2)*
 - [ ] VIII. Finiteness theorem
   1. [ ] Bi-duality spectral sequence *(5)*
