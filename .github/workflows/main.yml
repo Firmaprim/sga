@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ⬇️ Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: 📦 Cache Yarn packages
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: '**/node_modules'
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
@@ -28,7 +28,7 @@ jobs:
 
       - name: 📦 Cache R packages
         id: cache-r-packages
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
@@ -48,7 +48,7 @@ jobs:
           ./main_build.sh
 
       - name: 🚀 Deploy to build branch
-        uses: JamesIves/github-pages-deploy-action@3.6.2
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: build
