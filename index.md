@@ -1,23 +1,23 @@
 # Séminaire de Géométrie Algébrique du Bois Marie
 
-## [1. Étale covers and the fundamental group](https://thosgood.com/sga/sga-1/index.html) {#sga-1}
+## [1. Étale covers and the fundamental group](https://firmaprim.github.io/sga/sga-1/index.html) {#sga-1}
 
-- [x] [Introduction and foreword](https://thosgood.com/sga/sga-1/index.html) *(@thosgood)*
-- [x] [I. Étale morphisms](https://thosgood.com/sga/sga-1/I.html) *(@thosgood)*
-  1. [x] [Basics of differential calculus](https://thosgood.com/sga/sga-1/I.html#I.1)
-  2. [x] [Quasi-finite morphisms](https://thosgood.com/sga/sga-1/I.html#I.2)
-  3. [x] [Unramified morphisms](https://thosgood.com/sga/sga-1/I.html#I.3)
-  4. [x] [Étale morphisms. Étale covers](https://thosgood.com/sga/sga-1/I.html#I.4)
-  5. [x] [Fundamental property of étale morphisms](https://thosgood.com/sga/sga-1/I.html#I.5)
-  6. [x] [Application to étale extensions of complete local rings](https://thosgood.com/sga/sga-1/I.html#I.6)
-  7. [x] [Local construction of unramified and étale morphisms](https://thosgood.com/sga/sga-1/I.html#I.7)
-  8. [x] [Infinitesimal lifting of étale schemes. Applications to formal schemes](https://thosgood.com/sga/sga-1/I.html#I.8)
-  9. [x] [Invariance properties](https://thosgood.com/sga/sga-1/I.html#I.9)
-  10. [x] [Étale covers of a normal scheme](https://thosgood.com/sga/sga-1/I.html#I.10)
-  11. [x] [Various addenda](https://thosgood.com/sga/sga-1/I.html#I.11)
-- [ ] [II. Smooth morphisms: generalities, differential properties](https://thosgood.com/sga/sga-1/II.html)
-  1. [x] [Generalities](https://thosgood.com/sga/sga-1/II.html#II.1)
-  2. [ ] Some smoothness criteria for morphisms (test) *(3)*
+- [x] [Introduction and foreword](https://firmaprim.github.io/sga/sga-1/index.html) *(@thosgood)*
+- [x] [I. Étale morphisms](https://firmaprim.github.io/sga/sga-1/I.html) *(@thosgood)*
+  1. [x] [Basics of differential calculus](https://firmaprim.github.io/sga/sga-1/I.html#I.1)
+  2. [x] [Quasi-finite morphisms](https://firmaprim.github.io/sga/sga-1/I.html#I.2)
+  3. [x] [Unramified morphisms](https://firmaprim.github.io/sga/sga-1/I.html#I.3)
+  4. [x] [Étale morphisms. Étale covers](https://firmaprim.github.io/sga/sga-1/I.html#I.4)
+  5. [x] [Fundamental property of étale morphisms](https://firmaprim.github.io/sga/sga-1/I.html#I.5)
+  6. [x] [Application to étale extensions of complete local rings](https://firmaprim.github.io/sga/sga-1/I.html#I.6)
+  7. [x] [Local construction of unramified and étale morphisms](https://firmaprim.github.io/sga/sga-1/I.html#I.7)
+  8. [x] [Infinitesimal lifting of étale schemes. Applications to formal schemes](https://firmaprim.github.io/sga/sga-1/I.html#I.8)
+  9. [x] [Invariance properties](https://firmaprim.github.io/sga/sga-1/I.html#I.9)
+  10. [x] [Étale covers of a normal scheme](https://firmaprim.github.io/sga/sga-1/I.html#I.10)
+  11. [x] [Various addenda](https://firmaprim.github.io/sga/sga-1/I.html#I.11)
+- [ ] [II. Smooth morphisms: generalities, differential properties](https://firmaprim.github.io/sga/sga-1/II.html)
+  1. [x] [Generalities](https://firmaprim.github.io/sga/sga-1/II.html#II.1)
+  2. [ ] Some smoothness criteria for morphisms *(3)*
   3. [ ] Invariance properties *(1)*
   4. [ ] Differential properties of smooth morphisms *(17)*
   5. [ ] The case of a base field *(6)*
@@ -139,7 +139,7 @@
   1. [ ] Generalities *(3)*
   2. [ ] Application to quasi-coherent sheaves on preschemes *(2)*
 - [ ] VII. Nullity criteria. Coherence conditions for the sheaves $\underline{\operatorname{Ext}}(F,G)$
-  1. [ ] Study of $i<n$ *(5)*
+  1. [ ] Study of $i\< n$ *(5)*
   2. [ ] Study of $i>n$ *(2)*
 - [ ] VIII. Finiteness theorem
   1. [ ] Bi-duality spectral sequence *(5)*
