@@ -1,6 +1,6 @@
 book_filename: "sga-6"
 delete_merged_file: true
-view: https://github.com/thosgood/sga/blob/main/sga-6/%s
+view: https://github.com/firmaprim/sga/blob/main/sga-6/%s
 language:
   ui:
     chapter_name: "Exposé "
